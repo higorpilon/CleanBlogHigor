@@ -200,7 +200,6 @@ C:\Git\CleanBlogHigor\CleanBlogHigor\bin\Umbraco.Web.pdb
 C:\Git\CleanBlogHigor\CleanBlogHigor\bin\Umbraco.Web.xml
 C:\Git\CleanBlogHigor\CleanBlogHigor\bin\Umbraco.Web.UI.xml
 C:\Git\CleanBlogHigor\CleanBlogHigor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csprojAssemblyReference.cache
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csproj.CoreCompileInputs.cache
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csproj.CopyComplete
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.dll
