@@ -403,6 +403,10 @@
     <Content Include="Views\Partials\LatestArticles.cshtml" />
     <Content Include="Views\ArticleList.cshtml" />
     <Content Include="Views\Article.cshtml" />
+    <Content Include="Views\Partials\PageHeader.cshtml" />
+    <Content Include="Views\Contact.cshtml" />
+    <Content Include="Views\Content.cshtml" />
+    <Content Include="Views\Search.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

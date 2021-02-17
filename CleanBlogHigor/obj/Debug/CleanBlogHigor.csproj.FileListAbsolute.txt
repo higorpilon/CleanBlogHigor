@@ -204,3 +204,4 @@ C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csproj.CoreCompile
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csproj.CopyComplete
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.dll
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.pdb
+C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csprojAssemblyReference.cache
