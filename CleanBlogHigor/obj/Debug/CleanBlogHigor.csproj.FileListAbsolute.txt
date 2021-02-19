@@ -205,3 +205,4 @@ C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csproj.CopyComplet
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.dll
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.pdb
 C:\Git\CleanBlogHigor\CleanBlogHigor\obj\Debug\CleanBlogHigor.csprojAssemblyReference.cache
+C:\Git\CleanBlogHigor\CleanBlogHigor\bin\Our.Umbraco.EditLink.dll

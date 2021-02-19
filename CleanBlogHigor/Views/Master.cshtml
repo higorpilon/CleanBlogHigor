@@ -2,6 +2,8 @@
 
 @using ClientDependency.Core.Mvc
 
+@using Our.Umbraco.EditLink
+
 @{
     Layout = null;
     Html.RequiresCss("/vendor/bootstrap/css/bootstrap.min.css");
@@ -38,10 +40,10 @@
 
 
     @RenderBody()
-   
+
     @Html.Partial("/Views/Partials/Footer.cshtml")
 
-   
+
     @Html.RenderJsHere()
 </body>
 
